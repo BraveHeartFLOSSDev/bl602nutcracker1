@@ -5,3 +5,5 @@ I hope you put it to good use.
 
 Latest uploads: These should be of better quality than the first.
 These are all the blobs except for the map and txt format.
+
+The Latest Latest uploads: These are the maps and txt files as ascii compressed. I hope this will be useful to you devs. I'm finished with the blobs folder now. I say that...
